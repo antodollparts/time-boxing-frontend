@@ -9,4 +9,4 @@ Time Boxing es una aplicación diseñada para ayudar a los usuarios a organizar 
 - Mejorar la productividad y el enfoque del usuario.
 
 ## Autor
-Antonella Junco Moran
+[Antonella Junco Morán](https://github.com/antodollparts) 
